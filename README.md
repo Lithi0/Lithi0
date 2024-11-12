@@ -41,7 +41,7 @@ Here's a peek into my techy passions and skills:
 ---
 
 ### 🌱 **Currently Exploring** 🌱  
-I'm diving even deeper into **Network Security** and **Ethical Hacking**! Constantly learning, I’m prepping to become a **Cyber Warfare Technician** for the U.S. Navy ⚓️🇺🇸!
+I'm diving even deeper into **Technology Development** and **Ethical Hacking**! Constantly learning, I’m prepping to become a **Cyber Warfare Technician** for the U.S. Navy ⚓!
 
 ---
 
