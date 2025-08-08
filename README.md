@@ -44,6 +44,15 @@ What really makes me light up is the thrill of building something elegant… or 
 - Perfecting the balance between **style** and **substance** in everything I do 
 ---
 
+### 📜 **My History** 📜
+
+- **Cyber Warfare Technician — U.S. Navy (USCYBERCOM Aligned)**: *Since 2025*
+- **Member of #14707 "Zero Logic" CRASH/FTC**: *From 2023 to 2025*
+- **Certified Information Technology Specialist**: *Since 2023*
+- **Self-Taught Programmer & Security Enthusiast**: *Since 2021*
+
+---
+
 ### 💌 **Let’s Connect** 💌  
 Always happy to collaborate on security research, tool creation, or anything that needs a mix of technical precision and creative flair. If it’s hacky, challenging, or just plain fun — count me in~
 
