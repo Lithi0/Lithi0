@@ -1,59 +1,57 @@
 
 ---
 
-# 🐾✨ Welcome to My GitHub! ✨🐾
+# 🦋🌙 Welcome to My GitHub! 🌙🦋
 
-### Hey there! I'm Lithiokride, but you can call me Lithi0 🌸🌻  
-**Certified Information Technology Specialist | Cybersecurity & Command Line Enthusiast | Future Navy Cyber Warfare Technician** 🌐⚓️
+### Heyo! I'm Lithiokride - AKA Lithi0 💻🌸  
+**Certified Information Technology Specialist | Offensive Cyber Ops Enthusiast | Navy Cyber Warfare Technician** 🌐⚓️
 
 ---
 
 🌟 **About Me** 🌟  
-I'm deeply passionate about **Cybersecurity**, **Command Line Magic**, and all things techy! With years of experience coding in **Python**, **Java**, **HTML** and **more!**, I’m constantly exploring, learning, and growing. 🖥️💻 Whether it's tinkering with code or troubleshooting electronics, I'm here to make sure lives of people like mine stay fun!
+I’m on the path to becoming a **full-spectrum cyber operator** — from **recon and vulnerability research** to hands-on **exploitation and tool creation**. I’ve worked with **Python**, **Java**, **network exploitation**, and **network automation** — I’ve spent years blending software skills, network knowledge, and a hacker’s mindset into a toolkit designed for both creative builds and offensive security work.  
+
+What really makes me light up is the thrill of building something elegant… or breaking something wide open (*ethically, of course~*). Whether it’s spinning up a new lab, reverse engineering a binary, or squeezing every drop of power out of a terminal, I thrive on challenges that push both technical skill and creative problem-solving — making every project as polished as it is powerful.
 
 ---
 
-### 💖🌐 What I Love to Do 🌐💖  
-Here's a peek into my techy passions and skills:
+### 💖 **Core Passions & Skills** 💖  
 
-* 🛠 **Website Development** – Crafting beautiful, functional websites
-* 🐧 **Playing with Linux** – Experimenting with new/different operating systems frequently
-* 💻 **Virtual Machines & Cloud Computing** – Virtualization wizardry
-* 📡 **Network Protocols** – Fluent in the language of networks
-* 🔒 **Cybersecurity & Vulnerability Assessments** – Keeping things secure and safe (And sometimes fun!)
-* 🔥 **Firewall Configuration** – Setting up firewalls like a pro
-* 🔐 **Access Control & Authentication** – Controlling access with precision
-* 🖧 **Network Architecture & Hardening** – Building sturdy networks 🏰
-* 🛠️ **Hardware Troubleshooting & Repair** – Fixing things, one component at a time
-* 📲 **Mobile App Dev with Android Studio** – Bringing apps to life
-* ⚙️ **API Integration & Database Management** – Seamless connectivity
-* 🔍 **Testing & Debugging** – Bugs, beware! 🐛🚫
-* 💻 **Command Line & Automation** – Power at my fingertips!
+* 🛡 **Offensive Cybersecurity** – Penetration testing, red teaming, live exploitation  
+* 📡 **Network Recon & Mapping** – Painting the perfect picture before striking  
+* 🐧 **Linux Magic** – Customizing, tweaking, and making systems *just right*  
+* 💻 **Scripting & Automation** – Python/Bash to make life (and ops) smoother  
+* 🔍 **Vulnerability Research** – Finding hidden doors no one else sees  
+* ⚙️ **Toolsmithing** – Crafting and refining hacking tools with a personal touch  
+* 📲 **Mobile & Embedded Systems** – Testing, tinkering, and making them sing  
+* 🖧 **Network Hardening** – Because strong defenses can be just as beautiful as exploits  
+* 🛠️ **Hardware & Electronics Repair** – Sometimes the fix starts with a soldering iron and a smile  
 
 ---
 
-### 🎨✨ My Tech Stack ✨🎨  
-- **Languages**: Python 🐍 | Java ☕ | HTML 🌐
-- **Platforms**: Linux 🐧 | Windows 🪟
-- **Tools**: Git 🧩 | Scapy 🕸️ | Nmap 🌐 | Wireshark 🐬 | Much More!✨
-- **IDEs**: VSCode 💻 | Android Studio 📲 
+### 🛠 **Tech Stack** 🛠  
+- **Languages**: Python 🐍 | Java ☕ | HTML/CSS 🌐 | Bash 🖤  
+- **Platforms**: Linux 🐧 | Windows 🪟 | Virtualization & Containers 📦  
+- **Tools**: Git | Nmap | Wireshark 🦈| Scapy | Metasploit | Burp Suite | Aircrack-ng | Hydra
+- **IDEs**: VSCode | Android Studio  
 
 ---
 
-### 🌱 **Currently Exploring** 🌱  
-I'm diving even deeper into **Technology Development** and **Ethical Hacking**! Constantly learning, I’m prepping to become a **Cyber Warfare Technician** for the U.S. Navy ⚓!
+### 🌱 **Currently Working On** 🌱  
+- Leveling up through the Navy OCO pipeline (**ION → EA → Offensive Cyber Operations Specialist**)  
+- Diving into advanced **exploit development** and custom payloads  
+- Earning certs like **OSCP**, **GPEN**, **OSEP**, **OSWE**, **CEH**, and more  
+- Perfecting the balance between **style** and **substance** in everything I do 
+---
+
+### 💌 **Let’s Connect** 💌  
+Always happy to collaborate on security research, tool creation, or anything that needs a mix of technical precision and creative flair. If it’s hacky, challenging, or just plain fun — count me in~
 
 ---
 
-### 🌸✨ Let’s Connect! ✨🌸  
-
-Feel free to reach out or explore my repos. I love connecting with fellow techies, hackers, and like-minded people! 💌
-
----
-
-### 🐾💻 Fun Fact  
-I’m a **command line enthusiast** — there’s something magical about typing away at the terminal and seeing the spells' beauty! 😻
+### ✨💻 Fun Fact 💻✨
+My perfect hacking session? **Iced coffee on the desk, sweets within reach, music in the background, and a terminal just waiting to cause a little trouble~**  
 
 ---
 
-Thanks for stopping by! 🌸 Keep exploring, keep coding, and stay techy! ✨
+Thanks for stopping by! Keep exploring every corner, learning every trick, and hacking with your heart. 💻💖
